@@ -1,6 +1,6 @@
 class Parent {
     constructor() {
-        this.fatherName = "Schwarznegger";
+        this.fatherName = "Schwarzenegger";
     }
 }
 
